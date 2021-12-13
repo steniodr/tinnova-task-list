@@ -1,0 +1,50 @@
+{
+    "allCars":{
+        "data": [
+        {
+            "id": "04c84dbc-9ed7-4e75-9340-ede8509910c3",
+            "parentId": "cacefafe-9d91-4efc-af48-93718196b2bc",
+            "veiculo": "Argo",
+            "marca": "Fiat",
+            "ano":  2019,
+            "descricao": "Só pegar e levar!",
+            "vendido": false,
+            "created": "2021-12-05T19:22:50.964Z",
+            "updated": "2021-12-05T19:22:50.964Z"
+        },
+        {
+            "id": "c627283b-6d2b-40cd-a305-5e99b157f926",
+            "parentId": "be397568-f43a-41b7-b91c-d0a523546051",
+            "veiculo": "Onix",
+            "marca": "Chevrolet",
+            "ano":  2020,
+            "descricao": "Melhor que esse, só 2 desse. Ta brilhando a criança!",
+            "vendido": false,
+            "created": "2021-12-06T19:22:50.969Z",
+            "updated": "2021-12-06T19:22:50.969Z"
+        },
+        {
+            "id": "222b15f3-6411-4a61-a934-2564709d7109",
+            "parentId": "310247fd-3e30-4f9c-828f-0a1c5876a48b",
+            "veiculo": "Blazer",
+            "marca": "Chevrolet",
+            "ano": 2019,
+            "descricao": "Carro TOP!",
+            "vendido": true,
+            "created": "2021-12-13T21:11:53.772Z",
+            "updated": "2021-12-13T21:11:53.772Z"
+        },
+        {
+            "id": "b289e417-5554-4f5b-9902-276c27048ec9",
+            "parentId": "57881eac-2a11-438a-bbe3-37ad79161805",
+            "veiculo": "Ford Ka",
+            "marca": "Ford",
+            "ano": 2019,
+            "descricao": "Se você está sonhando em trocar de carro, agora você está na direção certa!",
+            "vendido": false,
+            "created": "2021-12-13T21:12:19.127Z",
+            "updated": "2021-12-13T21:12:19.127Z"
+        }
+    ]
+    }
+}
